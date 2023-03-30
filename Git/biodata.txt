@@ -37,5 +37,5 @@ ForumAPI
 Link Repository Project: 
 
 OpenMusicAPI
-==> Project ini dibuat dengan menggunakan Hapi Framework, postgreSQL.
+==> Project ini dibuat dengan menggunakan Hapi Framework, postgreSQL
 Link Repository Project: 
