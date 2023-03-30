@@ -29,13 +29,13 @@ S1 Geofisika Universitas Bengkulu
 
 Ecommerce (MERN)
 ==> Project Ecommerce ini dibuat dengan React pada sisi FrontEnd, NodeJd serta Express pada sisi server, dan MongoDB untuk Database.
-Link Repository Project Client: 
-Link Repository Project Server:
+Link Repository Project Client: https://github.com/hikio-17/client-ecommerce.git
+Link Repository Project Server: https://github.com/hikio-17/server-ecommerce.git
 
 ForumAPI
 ==> Project ini dibuat dengnan menggunakan Hapi Framework, PostgreSQL dan telah menerapkan Clean Architecture, Automation Testing, Continous Integration/Continous Development (CI/CD)
-Link Repository Project: 
+Link Repository Project: https://github.com/hikio-17/ForumApi_V2.git
 
 OpenMusicAPI
 ==> Project ini dibuat dengan menggunakan Hapi Framework, postgreSQL
-Link Repository Project: 
+Link Repository Project: https://github.com/hikio-17/Tugas03-OpenMusicApp_V3.git
