@@ -1,0 +1,41 @@
+							>>>>>>>>>>>>>>>>>>>> My profile <<<<<<<<<<<<<<<<<<<<
+
+
+>>>>> About Me <<<<<
+
+Hello, Pekenalkan Nama saya Fajri Muhammad Tio, Saat ini saya baru menyelesaikan studi untuk jenjang sarjana pada program studi Geofisika di Universitas Bengkulu. Walaupun latar belakang saya bukan dari IT, tetapi saya memiliki minat dan ketertarikan pada dunia IT. hampir 1 tahun belakangan ini saya telah mengikuti beberapa pelatihan baik berupa course, bootcamp, beasiswa maupun webinar mengenai IT terutama untuk web developer. Beberapa Project yang telah saya buat dari kegiatan hampir 1 tahun belakangan ini yaitu, Ecommerce, ForumAPI, OpenMusicAPI. Disini saya merasa tertarik dan ingin memperdalam hal tersebut sehingga saya bersemangat untuk mencari info-info mengenai pelatihan untuk menjadi web developer, dan saya menemukan salah satu event pelatihan web developer yaitu PESILAT 2023 ini . walaupun event ini diselenggarkan pada kota kota tertentu, saya masih berharap agar dapat mengkikuti event ini, untuk menambah pengetahuan saya terkait web developer, memperkuat relasi sesama penggiat IT, dan tentunya mempunyai lingkungan seputar IT. 
+
+
+>>>>> Contact <<<<<
+
+address	: Jl.Depati Parbo no.39 Kota Sungai Penuh, Jambi.
+github	: https://github.com/hikio-17
+website	: https://hikio-17.github.io/
+linkedin	: https://www.linkedin.com/in/fajri-muhammad-tio
+E-mail	: fajritio376@gmail.com
+Whatsapp	: +62 82237888697
+
+
+
+>>>>> Education <<<<<
+
+SDN 015/XI Lawang Agung Kota Sungai Penuh
+MTsN Model Kota Sungai Penuh
+MAN 1 Kota Sungai Penuh
+S1 Geofisika Universitas Bengkulu
+
+
+>>>>> Project <<<<<
+
+Ecommerce (MERN)
+==> Project Ecommerce ini dibuat dengan React pada sisi FrontEnd, NodeJd serta Express pada sisi server, dan MongoDB untuk Database.
+Link Repository Project Client: 
+Link Repository Project Server:
+
+ForumAPI
+==> Project ini dibuat dengnan menggunakan Hapi Framework, PostgreSQL dan telah menerapkan Clean Architecture, Automation Testing, Continous Integration/Continous Development (CI/CD)
+Link Repository Project: 
+
+OpenMusicAPI
+==> Project ini dibuat dengan menggunakan Hapi Framework, postgreSQL.
+Link Repository Project: 
